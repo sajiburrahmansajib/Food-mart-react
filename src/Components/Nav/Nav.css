@@ -1,0 +1,15 @@
+.nav-container {
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}

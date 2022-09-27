@@ -1,0 +1,23 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.cart-container {
+    background-color: wheat;
+}
+
+.meal-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 30px;
+}
+
+.container input {
+    width: 40%;
+    margin-top: 30px;
+    padding: 10px 0px;
+    border-radius: 5px;
+    border: 3px solid rgb(62, 80, 36);
+}
